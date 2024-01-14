@@ -23,6 +23,11 @@ Trên thực tế, chỉ có 14% lượng rác thải nhựa được tái chế
 
 Vì vậy, việc xây dựng một mô hình nhận dạng rác thải và kết hợp với công nghệ tự động sẽ giúp tạo thành các robot hỗ trợ trong việc xử lý và phân loại rác thải hiệu quả và có năng xuất cao hơn.
 
+Nguồn: https://congly.vn/phan-loai-rac-bang-tri-tue-nhan-tao-dang-dan-duoc-ua-chuong-tren-the-gioi-201570.html
+
+## MÔ TẢ VỀ BỘ DỮ LIỆU:
+
+Tên bộ dữ liệu liệu: Garbage
 
 
 
